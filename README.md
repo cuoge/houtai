@@ -44,4 +44,11 @@ vue init webpack houtai
 ? Pick a test runner jest  
 ? Setup e2e tests with Nightwatch?   
 
+按需引入element-ui  
+
+npm i element-ui -S  
+npm install babel-plugin-component -D  
+修改.babelrc  
+element-ui.js  
+
 ---------------------------------------------------------------------------------------------------------------
